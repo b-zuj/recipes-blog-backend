@@ -13,7 +13,7 @@ router.get('/recipes', async (req, res, next) => {
 
 router.get('/recipes/:id', async (req, res, next) => {
   try {
-    let recipesData = recipesJson;
+    const recipesData = recipesJson;
     const resData = recipesJson.data.filter(el => el.id === req.params.id);
     recipesData.data = resData;
     res.status(200).json(recipesData);
