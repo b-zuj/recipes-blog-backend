@@ -4,7 +4,7 @@ This is project prepared for a one-day hackaton event. It contains a simple vers
 ## Motivation
 It is a learning-by-doing project with a goal to practice building Express.js applications.
 
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.com/github/travis-ci/travis-web)
+[![Build Status](https://travis-ci.com/travis-ci/travis-web.svg?branch=master)](https://travis-ci.com/travis-ci/travis-web)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Tech/framework used
