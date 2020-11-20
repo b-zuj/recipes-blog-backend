@@ -28,7 +28,7 @@ In the project directory, you can run:
 Launches the test runner - jest.
 
 > `npm start`
-Launches the dev server on http://localhost:8080/.
+Launches the dev server on http://localhost:5000/.
 
 > `npm run build`
 Launches the production server.
